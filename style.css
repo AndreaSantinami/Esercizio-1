@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+}
+
+/* ------------------------------------------------ */
+
+header {
+    text-align: center;
+    padding: 10px 0;
+}
+
+header img {
+    width: 300px;
+    margin: auto;
+}
+
+nav {
+    background-color: rgb(255, 240, 170);
+    border-top: solid 2px orange;
+    margin: 10px 0;
+    padding: 10px 0;
+}
+
+/* ------------------------------------------------ */
+
+section {
+    padding: 200px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+
+
+
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+p {
+    padding: 10px 0;
+}
+
+.paragrafo-grigio {
+    color: grey;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.contenitore {
+    border-left: solid 2px orange;
+    padding: 2px;
+    font-size: 15px;
+}
+
+.contenitore p{
+    color: grey;text-decoration: underline; padding: 0;
+}
+
+.contenitore b{
+    color: red;
+}
+
+.lista{
+    padding-top: 10px;
+}
+
+.lista li{
+    padding: 8px;
+}
+
+.lista-due{
+    padding-top: 10px;
+}
+
+.lista-due li{
+    padding: 8px;
+}
+
+.metodo{
+    padding-top: 10px;
+}
+
+a{
+    color: grey;
+}
